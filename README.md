@@ -4,4 +4,4 @@ Created this interactive webpage trying to convince recruiters to hire me for in
 
 Language used: HTML5, CSS and JS. 
 
-Live website: [messagecrush.netlify.app](https://messagecrush.netlify.app/)https://messagecrush.netlify.app/
+Live website: https://messagerecruiters.netlify.app/
